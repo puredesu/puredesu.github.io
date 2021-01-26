@@ -28,7 +28,7 @@ h1 {
 }
 
 .discord {
-
+    margin: default;
 }
 
 .boxbutton {
@@ -48,7 +48,6 @@ h1 {
     border: none;
     cursor: pointer;
     padding: 8px 20px;
-
 }
 
 .discordwidget {
