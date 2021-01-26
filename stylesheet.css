@@ -3,10 +3,8 @@ body, html {
     margin: 0;
 }
 
-.parallax {
-    /* The image used */
+.bgOne {
     background-image: url('img/coolbase.png');
-    /* Full height */
     height: 100%;
     /* Create the parallax scrolling effect */
     background-attachment: fixed;
@@ -67,4 +65,10 @@ h1 {
     justify-content: center;
     align-items: center;
     margin-bottom: 200px;
+}
+
+.bgTemporal {
+    background-color: white;
+    height: 300px;
+    text-align: center;
 }
