@@ -16,7 +16,7 @@ h1 {
     font-family: 'Oswald', sans-serif;
     text-align: center;
     text-decoration: underline overline;
-    text-underline-offset: 30px;
+    text-underline-offset: 56px;
 }
 
 .ip {
@@ -24,5 +24,37 @@ h1 {
     font-size: 24px;
     font-family: 'Lucida Console';
     color: #fff;
-    margin-top: 0;
+    margin-top: -50px;
+}
+
+.discord {
+
+}
+
+.boxbutton {
+    margin-top: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.joinbutton {
+    color: white;
+    background-color: #7289da;
+    font-family: 'Open Sans', sans-serif;
+    border-radius: 4px;
+    font-size: 16px;
+    letter-spacing: 1.2px;
+    border: none;
+    cursor: pointer;
+    padding: 8px 20px;
+
+}
+
+.discordwidget {
+    margin-top: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 200px;
 }
