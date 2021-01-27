@@ -20,6 +20,15 @@ p {
 
 .bgTwo {
     background-image: url('img/coolpond.png');
+    height: 80%;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.bgThree {
+    background-image: url('img/coolwhite.png');
     height: 100%;
     background-attachment: fixed;
     background-position: center;
@@ -39,7 +48,7 @@ h1 {
     text-align: center;
     text-decoration: underline overline;
     text-underline-offset: 56px;
-    padding-top: 300px;
+    padding-top: 350px;
 }
 
 h2 {
@@ -52,7 +61,7 @@ h2 {
     margin-top: 0px;
     font-family: 'Oswald', sans-serif;
     text-align: center;
-    padding-top: 100px;
+    padding-top: 128px;
     text-decoration: underline overline;
     text-underline-offset: 14px;
 }
