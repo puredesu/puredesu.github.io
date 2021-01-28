@@ -135,23 +135,23 @@ h2 {
 
 .logoSteam, .logoTwitter, .logoYoutube, .logoDiscord {
     filter: opacity(50%) grayscale(100%);
-    height: 100px;
-    width: 100px;
+    height: 80px;
+    width: 80px;
     cursor: pointer;
 }
 
 .logoTwitter {
-    width: 123px;
+    width: 98.4px;
 }
 
 .logoYoutube {
-    width: 175px;
+    width: 140px;
     cursor: pointer;
 }
 
 .logoDiscord {
-    width: 115px;
-    height: 115px;
+    width: 92px;
+    height: 92px;
 }
 
 footer {
