@@ -47,7 +47,6 @@ h1 {
     text-align: center;
     text-decoration: underline overline;
     text-underline-offset: 56px;
-
 }
 
 h2 {
@@ -116,7 +115,7 @@ h2 {
     font-size: 0;
     text-align: center;
     padding: 50px;
-    background-color: rgb(82, 82, 82);
+    background-color: rgb(230, 230, 230);
 }
 
 .leftcon, .middlecon, .rightcon {
@@ -142,21 +141,18 @@ h2 {
     height: 100px;
     width: 100px;
     cursor: pointer;
-    filter: drop-shadow(1px 1px);
 }
 
 .logoYoutube {
     height: 100px;
     width: 175px;
     cursor: pointer;
-    filter: drop-shadow(1px 1px);
 }
 
 .logoDiscord {
     height: 100px;
     width: 100px;
     cursor: pointer;
-    filter: drop-shadow(1px 1px);
 }
 
 footer {
