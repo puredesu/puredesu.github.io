@@ -35,6 +35,14 @@ p {
     background-size: cover;
 }
 
+.bgTransition {
+    background-color: rgb(61, 61, 61);
+    height: 150px;
+    text-align: center;
+    margin: 0px;
+    padding: 0px;
+}
+
 h1 {
     margin-top: 0px;
     font-size: 128px;
@@ -103,18 +111,10 @@ h2 {
     padding-bottom: 200px;
 }
 
-.bgTemporal {
-    background-color: rgb(61, 61, 61);
-    height: 150px;
-    text-align: center;
-    margin: 0px;
-    padding: 0px;
-}
-
 .contact {
     font-size: 0;
     text-align: center;
-    padding: 50px;
+    padding: 35px;
     background-color: rgb(230, 230, 230);
 }
 
