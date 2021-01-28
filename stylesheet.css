@@ -10,12 +10,12 @@ p {
 
 .bgOne {
     background-image: url('img/coolbase.png');
-    height: 100%;
-    /* Create the parallax scrolling effect */
     background-attachment: fixed;
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
+    padding-top: 350px;
+    padding-bottom: 421px;
 }
 
 .bgTwo {
@@ -29,7 +29,6 @@ p {
 
 .bgThree {
     background-image: url('img/coolwhite.png');
-    height: 100%;
     background-attachment: fixed;
     background-position: center;
     background-repeat: no-repeat;
@@ -48,7 +47,7 @@ h1 {
     text-align: center;
     text-decoration: underline overline;
     text-underline-offset: 56px;
-    padding-top: 350px;
+
 }
 
 h2 {
@@ -139,10 +138,25 @@ h2 {
     width: 33%;
 }
 
-.steam {
-    height: 200px;
-    width: 200px;
+.logoSteam {
+    height: 100px;
+    width: 100px;
     cursor: pointer;
+    filter: drop-shadow(1px 1px);
+}
+
+.logoYoutube {
+    height: 100px;
+    width: 175px;
+    cursor: pointer;
+    filter: drop-shadow(1px 1px);
+}
+
+.logoDiscord {
+    height: 100px;
+    width: 100px;
+    cursor: pointer;
+    filter: drop-shadow(1px 1px);
 }
 
 footer {
